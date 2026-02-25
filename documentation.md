@@ -4,7 +4,7 @@
 - [Team Information](#team-information)
 
 - [Meetings](#meeting-minutes)
-  - [Meeting – Feb 24, 2026](#meeting--feb-24-2026)
+  - [Meeting – Feb 24, 2026](#meeting-1---feb-24-2026)
   - [Meeting – TBD](#meeting--tbd)
 
 - [UML Diagrams](#uml-diagrams)
@@ -34,12 +34,12 @@
 
 ---
 # Meetings
-  
-## Meeting 1
-  
-### Meeting Minutes - 23 minutes
 
-### Meeting – Feb 24, 2026
+
+### Meeting 1 – Feb 24, 2026
+
+#### Meeting Minutes 
+23 minutes
 
 #### Date
 Tuesday, February 24, 2026
