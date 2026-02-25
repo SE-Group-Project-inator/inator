@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Team Information](#team-information)
 
-- [Meeting Minutes](#meeting-minutes)
+- [Meetings](#meeting-minutes)
   - [Meeting – Feb 24, 2026](#meeting--feb-24-2026)
   - [Meeting – TBD](#meeting--tbd)
 
@@ -33,11 +33,11 @@
 | Muhammad Umer Abdullah Khalid      | 27100414    | Umer-khalid1   |
 
 ---
+# Meetings
   
-# Meeting 1
+## Meeting 1
   
-### Meeting Minutes
-  23 minutes
+### Meeting Minutes - 23 minutes
 
 ### Meeting – Feb 24, 2026
 
